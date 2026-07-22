@@ -160,7 +160,8 @@ The model was evaluated using:
 
 ## 📸 Application Preview
 
-![Uploading Screenshot 2026-07-22 230952.png…]()
+<img width="1820" height="787" alt="Screenshot 2026-07-22 230952" src="https://github.com/user-attachments/assets/20898941-5271-4ea5-8db2-d5a562898400" />
+
 
 ---
 

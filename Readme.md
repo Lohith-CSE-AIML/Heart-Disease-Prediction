@@ -160,6 +160,7 @@ The model was evaluated using:
 
 ## 📸 Application Preview
 
+![Uploading Screenshot 2026-07-22 230952.png…]()
 
 ---
 

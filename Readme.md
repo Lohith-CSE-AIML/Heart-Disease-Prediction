@@ -156,6 +156,12 @@ The model was evaluated using:
 * ROC-AUC
 
 ---
+---
+
+## 📸 Application Preview
+
+
+---
 
 ## ⚠️ Disclaimer
 

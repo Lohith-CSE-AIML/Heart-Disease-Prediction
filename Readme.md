@@ -14,7 +14,7 @@ This project predicts whether a patient is likely to have **heart disease** base
 
 ## 📂 GitHub Repository
 
-**Repository:** **
+**Repository:** *https://github.com/Lohith-CSE-AIML/Heart-Price-Prediction.git*
 
 ---
 
@@ -108,7 +108,7 @@ Heart_Disease_Prediction/
 ### Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone <https://github.com/Lohith-CSE-AIML/Heart-Price-Prediction.git>
 ```
 
 ### Move into the project folder
@@ -168,7 +168,7 @@ This project is developed for **educational purposes only**. It is not intended 
 **Lohith**
 
 * GitHub: https://github.com/Lohith-CSE-AIML
-* LinkedIn: *(Add your LinkedIn profile link here)*
+* LinkedIn: *www.linkedin.com/in/thoti-lohith*
 
 ---
 
